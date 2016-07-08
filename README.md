@@ -1,5 +1,5 @@
 # SolarSystem-Java
-Javafx program simulating the planet's orbits
+JavaFX program simulating the planet's orbits
 
 ##Features:
 + javafx model of the 8 (remaining) planets in the solar system
